@@ -5,22 +5,26 @@ This article presents the deep reinforcement learning (DRL) based smart scheduli
 ### 🌐 Paper Link https://ieeexplore.ieee.org/abstract/document/10004664
 
 
-## 🎯 Objective / Goals
+# 🎯 Objective / Goals
 
 The proposed system utilizes energy storage (ES), home loads, and PV for the energy management problem; the system model is shown in Fig.1, which helps to reduce the dependency on the utility by storing the surplus energy generation through renewable energy. It is important to note that the initial cost of ES has dropped to a few hundred $/kWh within the following decades and encouraged to utilize of clean energy for zero carbon emission. The data-driven home appliances are considered for the proposed work, including air conditioners, refrigerators, microwaves, and washing machines.
+
+
+
 [![🧠 System Block Diagram](Block_diagram.png)
 
-## 🗃️ Dataset
 
-[![🧠🧠 Dataset Appliances](Diagram.gif)
-## Description
-The large open-source data set is used given by Pecan Street. Inc. It includes several years' data, and for the case study, data for a few weeks has been considered randomly in Fig. 3. 
+
+# 🗃️ Appliances used
+
+The large open-source data set is used given by Pecan Street. Inc. It includes several years' data, and for the case study, data for a few weeks has been considered randomly in Fig. 
 In addition, the data includes the power consumption concerning the time of a refrigerator, air conditioner, dishwasher, washing machine, microwave, lighting, cloth dryer, and normal house consumption. Hence, the case study performs for one house for over one year every 15 minutes. It is important to note that most of the components in the environment are taken from the datasets; we perform the data wrangling to get a technical characteristic of different appliances.
-
+## Time Series Data Visualization
 [![🧠🧠 Time Series Visualization](DataVisualization.png)
+[![🧠🧠 Dataset Appliances](Diagram.gif)
 
 
-
+# Sequential decision managenment in the hours of a day. RL is a sequential algorithm. 
 
 
 [![🧠🧠 System Architecture Diagram](Cases.gif)
