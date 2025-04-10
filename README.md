@@ -130,7 +130,7 @@ pip install tensorflow gym numpy matplotlib
 
 ```
 
-# Contact Ahmad Suleman engineersuleman118@gmail.com
+
 ## 📚 Citation
 
 @inproceedings{suleman2022smart,
@@ -143,5 +143,7 @@ pip install tensorflow gym numpy matplotlib
   doi       = {10.1109/ICET56601.2022.10004664},
   keywords  = {Deep learning; Photovoltaic systems; Home appliances; Costs; Transportation; Reinforcement learning; Electric vehicles; Deep reinforcement learning; Home energy management; EV; demand response}
 }
+
+# 📬  Contact Ahmad Suleman engineersuleman118@gmail.com
 
 
