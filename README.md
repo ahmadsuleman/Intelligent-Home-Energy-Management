@@ -27,10 +27,22 @@ In addition, the data includes the power consumption concerning the time of a re
 # Sequential decision managenment in the hours of a day. RL is a sequential algorithm. 
 
 
-[![🧠🧠 System Architecture Diagram](Cases.gif)
 [![🧠🧠 System Architecture Diagram](case_generalization.gif)
+
+
+# EV charging management for the profitable hours of the day.
+
+
 [![🧠🧠 System Architecture Diagram](Ev_Scheduling.png)
+
+# System Destablization through untrained power scenarios. Test the generalizability of RL algorithm. 
+
+[![🧠🧠 System Architecture Diagram](Cases.gif)
+
+# Adjust the decision support such that it can make profits by selling in a profitable time of the day. Please note that agent makes it by saving energy through the possible times without compromising the user comfort.  
 [![🧠🧠 System Architecture Diagram](profit_gained.png)
+
+# RL agent training confirmation is usually made by reward loss graphs. The RL learned system must show a stable reward and low loss when Stochastic noise approaches zero. 
 [![🧠🧠 System Architecture Diagram](RL_agent.png)
 
 
