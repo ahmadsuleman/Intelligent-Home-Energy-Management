@@ -102,8 +102,7 @@ Training progress is validated via reward and loss curves. A stable reward and l
 ---
 
 
-# Home Energy Management System (HEMS) with Deep Q-Learning
-
+# 🛠️ Home Energy Management System (HEMS) with Deep Q-Learning Code Explaination
 This project implements a Home Energy Management System (HEMS) that uses **Deep Q-Learning (DQN)** to optimize energy usage in a simulated environment. The system considers energy usage patterns, electric vehicle (EV) scheduling, and battery storage management in a home or microgrid setting.
 
 ## Overview
