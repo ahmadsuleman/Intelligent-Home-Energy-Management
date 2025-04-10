@@ -13,7 +13,7 @@ The proposed system utilizes energy storage (ES), home loads, and PV for the ene
 ## 🗃️ Dataset
 
 [![🧠🧠 System Architecture Diagram](Diagram.gif)
-[![🧠🧠 System Architecture Diagram](DataVisualization.gif)
+[![🧠🧠 System Architecture Diagram](DataVisualization.png)
 [![🧠🧠 System Architecture Diagram](Cases.gif)
 [![🧠🧠 System Architecture Diagram](Case_generalization.gif)
 [![🧠🧠 System Architecture Diagram](EV_Scheduling.png)
