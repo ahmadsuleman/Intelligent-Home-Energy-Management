@@ -8,9 +8,16 @@ This article presents the deep reinforcement learning (DRL) based smart scheduli
 ## 🎯 Objective / Goals
 
 The proposed system utilizes energy storage (ES), home loads, and PV for the energy management problem; the system model is shown in Fig.1, which helps to reduce the dependency on the utility by storing the surplus energy generation through renewable energy. It is important to note that the initial cost of ES has dropped to a few hundred $/kWh within the following decades and encouraged to utilize of clean energy for zero carbon emission. The data-driven home appliances are considered for the proposed work, including air conditioners, refrigerators, microwaves, and washing machines.
- 
-[![🧠🧠 System Architecture Diagram](Diagram.gif)
 [![🧠 System Block Diagram](Block_diagram.png)
+
+## 🗃️ Dataset
+
+[![🧠🧠 System Architecture Diagram](Diagram.gif)
+
+[![🧠🧠 System Architecture Diagram](DataVisualization.gif)
+[![🧠🧠 System Architecture Diagram](Cases.gif)
+[![🧠🧠 System Architecture Diagram](Case_generalization.gif)
+
 
 
 
