@@ -101,6 +101,33 @@ Training progress is validated via reward and loss curves. A stable reward and l
 
 ---
 
+
+# Home Energy Management System (HEMS) with Deep Q-Learning
+
+This project implements a Home Energy Management System (HEMS) that uses **Deep Q-Learning (DQN)** to optimize energy usage in a simulated environment. The system considers energy usage patterns, electric vehicle (EV) scheduling, and battery storage management in a home or microgrid setting.
+
+## Overview
+
+This repository contains code to train a **Deep Q-Network (DQN)** for decision-making in a **Home Energy Management System (HEMS)** simulation. The environment is built using a custom HEMS setup that includes a Markov Decision Process (MDP) model for energy management and decision-making.
+
+### Key Components:
+- **MDP_Development1.py**: Contains the implementation of the Markov Decision Process (MDP) that simulates energy management for a home or microgrid environment.
+- **HEMS_Environment.py**: Defines the environment for the Home Energy Management System (HEMS), including energy consumption patterns, battery storage, and electric vehicle scheduling.
+- **Conditional_Energy_Management.py**: Manages energy conditions and setups for the overall system.
+- **Data_Handling.py**: Handles data preprocessing, such as reading and formatting the input data.
+- **Modules.py**: Contains utility functions or additional modules required for the HEMS simulation.
+- **DQN_Agent_training.py**: This script implements the training process for the Deep Q-Network (DQN) agent. It includes environment interaction, experience replay, epsilon-greedy action selection, and network updates.
+
+## Setup
+
+### Prerequisites
+
+To run this project, you need to install the following dependencies:
+
+```bash
+pip install tensorflow gym numpy matplotlib
+
+```
 ## 📚 Citation
 
 @inproceedings{suleman2022smart,
