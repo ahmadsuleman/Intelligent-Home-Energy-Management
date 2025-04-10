@@ -16,7 +16,7 @@ The proposed system utilizes energy storage (ES), home loads, and PV for the ene
 [![🧠🧠 System Architecture Diagram](DataVisualization.png)
 [![🧠🧠 System Architecture Diagram](Cases.gif)
 [![🧠🧠 System Architecture Diagram](case_generalization.gif)
-[![🧠🧠 System Architecture Diagram](EV_Scheduling.png)
+[![🧠🧠 System Architecture Diagram](Ev_Scheduling.png)
 [![🧠🧠 System Architecture Diagram](profit_gained.png)
 [![🧠🧠 System Architecture Diagram](RL_agent.png)
 
