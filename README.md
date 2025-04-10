@@ -14,6 +14,8 @@ This article presents the deep reinforcement learning (DRL)-based smart scheduli
 
 Decisions include battery charging/discharging and EV scheduling using a collaborative approach. A custom gym environment feeds system states to the agent and receives a reward based on action selection. A case study validates the approach, showing effective scheduling with PV generation. Comparative analysis with traditional methods confirms the superiority of the DRL-based system.
 
+### I have added comments in the code from chatgpt.
+
 🔗 **[Read the Paper](https://ieeexplore.ieee.org/abstract/document/10004664)**
 
 ---
@@ -127,6 +129,8 @@ To run this project, you need to install the following dependencies:
 pip install tensorflow gym numpy matplotlib
 
 ```
+
+# Contact Ahmad Suleman engineersuleman118@gmail.com
 ## 📚 Citation
 
 @inproceedings{suleman2022smart,
