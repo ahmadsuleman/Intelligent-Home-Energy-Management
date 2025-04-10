@@ -103,5 +103,15 @@ Training progress is validated via reward and loss curves. A stable reward and l
 
 ## 📚 Citation
 
-If you use this code or concepts in your work, please cite the paper:
+@inproceedings{suleman2022smart,
+  author    = {A. Suleman and M. A. Amin and M. Fatima and B. Asad and M. Menghwar and M. A. Hashmi},
+  title     = {Smart Scheduling of EVs Through Intelligent Home Energy Management Using Deep Reinforcement Learning},
+  booktitle = {2022 17th International Conference on Emerging Technologies (ICET)},
+  location  = {Swabi, Pakistan},
+  year      = {2022},
+  pages     = {18--24},
+  doi       = {10.1109/ICET56601.2022.10004664},
+  keywords  = {Deep learning; Photovoltaic systems; Home appliances; Costs; Transportation; Reinforcement learning; Electric vehicles; Deep reinforcement learning; Home energy management; EV; demand response}
+}
+
 
