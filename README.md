@@ -12,8 +12,17 @@ The proposed system utilizes energy storage (ES), home loads, and PV for the ene
 
 ## 🗃️ Dataset
 
-[![🧠🧠 System Architecture Diagram](Diagram.gif)
-[![🧠🧠 System Architecture Diagram](DataVisualization.png)
+[![🧠🧠 Dataset Appliances](Diagram.gif)
+## Description
+The large open-source data set is used given by Pecan Street. Inc. It includes several years' data, and for the case study, data for a few weeks has been considered randomly in Fig. 3. 
+In addition, the data includes the power consumption concerning the time of a refrigerator, air conditioner, dishwasher, washing machine, microwave, lighting, cloth dryer, and normal house consumption. Hence, the case study performs for one house for over one year every 15 minutes. It is important to note that most of the components in the environment are taken from the datasets; we perform the data wrangling to get a technical characteristic of different appliances.
+
+[![🧠🧠 Time Series Visualization](DataVisualization.png)
+
+
+
+
+
 [![🧠🧠 System Architecture Diagram](Cases.gif)
 [![🧠🧠 System Architecture Diagram](case_generalization.gif)
 [![🧠🧠 System Architecture Diagram](Ev_Scheduling.png)
