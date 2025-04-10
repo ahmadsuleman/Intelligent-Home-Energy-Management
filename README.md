@@ -2,6 +2,7 @@
 # 🚀 Smart Scheduling of EVs Through Intelligent Home Energy Management Using Deep Reinforcement Learning
 # 🧾 Abstract
 This article presents the deep reinforcement learning (DRL) based smart scheduling in intelligent home energy management system (SSIHEMS) for electric vehicles (EVs) by utilizing the photovoltaic (PV) on the rooftop. Therefore, optimizing home appliances to minimize consumption cost is challenging because of the randomness of electricity prices and poses a challenge for efficient scheduling. The data-driven model-free DRL-based SSIHEMS is utilized to optimize the decision by managing different home appliances and offering appropriate scheduling of EVs to overcome the shortcomings. The decision includes the proper scheduling of battery charging, discharging, and EV to reduce the dependency on the electric grid through a collaborative approach. In addition, the proposed work covers designing a gym-based environment that incorporates the states fed to an agent and receives the reward based on the action taken for scheduling. Hence, the case study is performed to validate the proposed approach. It is verified that the decisions for battery charging, discharging, and EV scheduling are managed well through PV generation with respect to time. Furthermore, a comparative study of deep reinforcement learning and conventional techniques verifies the effectiveness of DRL.
+### 🌐 Paper Link https://ieeexplore.ieee.org/abstract/document/10004664
 
 
 # 🚀 Project Title
