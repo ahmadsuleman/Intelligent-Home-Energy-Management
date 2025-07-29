@@ -132,7 +132,7 @@ pip install tensorflow gym numpy matplotlib
 
 
 ## 📚 Citation
-
+```bibtex
 @inproceedings{suleman2022smart,
   author    = {A. Suleman and M. A. Amin and M. Fatima and B. Asad and M. Menghwar and M. A. Hashmi},
   title     = {Smart Scheduling of EVs Through Intelligent Home Energy Management Using Deep Reinforcement Learning},
