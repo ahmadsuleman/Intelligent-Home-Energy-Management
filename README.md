@@ -12,7 +12,7 @@
 
 This article presents the deep reinforcement learning (DRL)-based smart scheduling in an intelligent home energy management system (SSIHEMS) for electric vehicles (EVs), utilizing rooftop photovoltaic (PV) generation. Optimizing home appliances to minimize consumption cost is challenging due to the randomness of electricity prices. The model-free DRL-based SSIHEMS aims to address this by managing home appliances and EV scheduling to reduce grid dependency.
 
-Decisions include battery charging/discharging and EV scheduling using a collaborative approach. A custom gym environment feeds system states to the agent and receives a reward based on action selection. A case study validates the approach, showing effective scheduling with PV generation. Comparative analysis with traditional methods confirms the superiority of the DRL-based system.
+Decisions include battery charging/discharging and EV scheduling using a collaborative approach. A custom gym environment feeds system states to the agent and receives a reward based on action selection. A case study validates the approach, showing effective scheduling with PV generation. Comparative analysis with traditional methods confirms the superiority of the Deep reinforcement learning -based system.
 
 
 🔗 **[Read the Paper](https://ieeexplore.ieee.org/abstract/document/10004664)**
